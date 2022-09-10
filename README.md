@@ -7,7 +7,7 @@ In this we are going to connect the frontend and backend using reactjs with the 
 ### `cd backend`.
 3. In that to start the backend we need to type the following command
 ### `npm run dev` 
-        or 
+       #### or 
 ### `node server.js`
 
 4. After that open another terminal and and open the frontend file using the follwing command. 
